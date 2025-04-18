@@ -1,0 +1,14 @@
+D:\Codes\C#\code\2sem PPZ zadania\Zad1\bin\Debug\net8.0\Zad1.exe
+D:\Codes\C#\code\2sem PPZ zadania\Zad1\bin\Debug\net8.0\Zad1.deps.json
+D:\Codes\C#\code\2sem PPZ zadania\Zad1\bin\Debug\net8.0\Zad1.runtimeconfig.json
+D:\Codes\C#\code\2sem PPZ zadania\Zad1\bin\Debug\net8.0\Zad1.dll
+D:\Codes\C#\code\2sem PPZ zadania\Zad1\bin\Debug\net8.0\Zad1.pdb
+D:\Codes\C#\code\2sem PPZ zadania\Zad1\obj\Debug\net8.0\Zad1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C#\code\2sem PPZ zadania\Zad1\obj\Debug\net8.0\Zad1.AssemblyInfoInputs.cache
+D:\Codes\C#\code\2sem PPZ zadania\Zad1\obj\Debug\net8.0\Zad1.AssemblyInfo.cs
+D:\Codes\C#\code\2sem PPZ zadania\Zad1\obj\Debug\net8.0\Zad1.csproj.CoreCompileInputs.cache
+D:\Codes\C#\code\2sem PPZ zadania\Zad1\obj\Debug\net8.0\Zad1.dll
+D:\Codes\C#\code\2sem PPZ zadania\Zad1\obj\Debug\net8.0\refint\Zad1.dll
+D:\Codes\C#\code\2sem PPZ zadania\Zad1\obj\Debug\net8.0\Zad1.pdb
+D:\Codes\C#\code\2sem PPZ zadania\Zad1\obj\Debug\net8.0\Zad1.genruntimeconfig.cache
+D:\Codes\C#\code\2sem PPZ zadania\Zad1\obj\Debug\net8.0\ref\Zad1.dll
